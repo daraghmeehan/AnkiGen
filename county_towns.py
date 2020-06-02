@@ -11,7 +11,7 @@ soup = BeautifulSoup(source, 'lxml')
 dict = {}
 
 
-def write_to_file(dict):
+def write_to_csv(dict):
 
     csv_file = open('CSVs/county_towns (cloze).csv',
                     'w', newline='', encoding='utf-8')
@@ -44,4 +44,4 @@ for row in body.find_all('tr')[1:]:
 
     dict[county_text] = county_town_text
 
-write_to_file(dict)
+write_to_csv(dict)
