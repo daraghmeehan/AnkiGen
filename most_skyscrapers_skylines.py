@@ -48,7 +48,6 @@ def save_skyline_image(skyline_image_url, city):
     if image_response.status_code == 200:
         with open(f"Images/Skylines/Most Skyscrapers/{city} - Most Skyscrapers.jpg", 'wb') as f:
             f.write(image_response.content)
-
             return
 
     save_empty_image(city)
