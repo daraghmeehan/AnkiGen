@@ -16,4 +16,4 @@ time_100_photos.py:
 <br />
 
 
-![alt text](https://github.com/daraghmeehan/AnkiGen/blob/master/images/Anki_sample.jpg?raw=true)
+![alt text](https://github.com/daraghmeehan/AnkiGen/blob/master/repo_images/Anki_sample.jpg?raw=true)
