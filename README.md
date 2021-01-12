@@ -14,6 +14,7 @@ time_100_photos.py:
 > Answer = Photograph title, photographer name, year taken\
 > Dataset = Time's 100 Most Influential Photos (http://100photos.time.com/)
 <br />
+<br />
 
-
+## Anki running on desktop with the Time's 100 Most Influential Photos deck
 ![alt text](https://github.com/daraghmeehan/AnkiGen/blob/master/repo_images/Anki_sample.jpg?raw=true)
